@@ -1,4 +1,3 @@
-# svhn-cnn-classifier
 # SVHN Digit Classification with MLP and CNN
 
 This project implements and compares an MLP and a CNN for digit classification on the Street View House Numbers (SVHN) dataset.
